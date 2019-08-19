@@ -38,7 +38,7 @@ npm helps to install all the required packages using "npm install" command.
 #### Techniques Implemented:
 * Model View Controller architecture.
 * Modern JavaScript - WebPack, npm, Babel, Configurations, Callbacks, Promises, Async - Await, Classes, Arrow Functions, APIs, Pagination, 
-Local Storage
+Local Storage.
 * Prototype Chain, Hoisting, Scope Chain, Closures, Array Methods (ForEach, Map, Splice, Slice, findIndex), DOM Manipulations, Event Delegation - Event Bubbling.
 
 
