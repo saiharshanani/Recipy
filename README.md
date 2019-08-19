@@ -33,6 +33,7 @@ App controller handles the communication between the controller for each model a
 #### Production stage:
 With the help of webpack and npm configuring to the development stage and production, the development stage was done through a local server. All the models and views have a separate js file which helps to import and export required functions. All these separate
 js files are combined into the single file as bundle.js which is production-ready.
+npm helps to install all the required packages using "npm install" command.
 
 #### Techniques Implemented:
 * Model View Controller architecture.
