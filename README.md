@@ -14,7 +14,7 @@ Each "model" has its own associated "view" to handle the user interactions on th
 views are controlled by the Controller.
 
 #### Search - (Model,View):
-Search model fetches and returns the results to search view from APIs for an input item, where search view renders the results and displays it in search results container using DOM manipulations which has the title, author, image, URL for the recipe. The search results container incorporates a pagination technique to display 
+Search model fetches and returns the results to search view from APIs using async- await for an input item, where search view renders the results and displays it in search results container using DOM manipulations which has the title, author, image, URL for the recipe. The search results container incorporates a pagination technique to display 
 10 results per page and page navigation.
 
 #### Recipe - (Model,View):
